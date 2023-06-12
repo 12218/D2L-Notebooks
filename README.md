@@ -4,3 +4,4 @@
 - [x] Day 02: 02 - Softmax
 - [x] Day 03: 03 - MLP
 - [x] Day 04: 04 - Dropout
+- [x] Day 05: 05 - Kaggle房价预测
